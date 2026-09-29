@@ -1,0 +1,5 @@
+# Локальные секреты и данные Discord-бота.
+config.txt
+data.json
+*.json.tmp
+__pycache__/
